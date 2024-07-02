@@ -87,12 +87,12 @@ section.img > pre{
 } 
 
 section#img01{
-    background-image: url(../desario12/pacote-d012/imagens/background001.jpg);
+    background-image: url(pacote-d012/imagens/background001.jpg);
     background-position: right center;
 }
 
 section#img02{
-    background-image: url(../desario12/pacote-d012/imagens/background002.jpg);
+    background-image: url(pacote-d012/imagens/background002.jpg);
 }
 
 footer{
